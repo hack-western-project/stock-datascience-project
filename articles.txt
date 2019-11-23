@@ -1,0 +1,1244 @@
+
+
+{
+   "status": "ok",
+   "totalResults": 95,
+   "articles": [
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Tesla is launching version three of its solar roof tile this week",
+         "description": "Tesla will debut a new, third iteration of its solar roof tile this week – with an official debut tomorrow afternoon. Tesla CEO Elon Musk said during the company’s earnings call on Wednesday that it’ll make an official announcement detailing the differences i…",
+         "url": "http://techcrunch.com/2019/10/23/tesla-is-launching-version-three-of-its-solar-roof-tile-this-week/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/solarroof-smooth-glass@2x.jpg?w=764",
+         "publishedAt": "2019-10-23T23:13:34Z",
+         "content": "Tesla will debut a new, third iteration of its solar roof tile this week with an official debut tomorrow afternoon. Tesla CEO Elon Musk said during the company’s earnings call on Wednesday that it’ll make an official announcement detailing the differences in … [+962 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Tesla all-electric ATV makes a surprise debut at Cybertruck event",
+         "description": "Tesla CEO Elon Musk definitely didn’t have the most issue-free presentation during last night’s Cybertruck unveil, but he did pull off a pretty impressive ‘one more thing moment’ – revealing a surprise all-electric all-terrain vehicle (ATV) that Tesla created…",
+         "url": "http://techcrunch.com/2019/11/22/tesla-all-electric-atv-makes-a-surprise-debut-at-its-cybertruck-event/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/tesla-atv-gif.gif?w=764",
+         "publishedAt": "2019-11-22T13:57:16Z",
+         "content": "Tesla CEO Elon Musk definitely didn’t have the most issue-free presentation during last night’s Cybertruck unveil, but he did pull off a pretty impressive ‘one more thing moment’ revealing a surprise all-electric all-terrain vehicle (ATV) that Tesla created t… [+1365 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Matt Burns",
+         "title": "Four must-haves for the Tesla ‘Cybertruck’ all-electric pickup truck",
+         "description": "Tesla is set to unveil its pickup this week and it needs to be widely different from its current lineup. The current line of Tesla vehicles share a lot of parts, and, logically, the Tesla pickup will do the same. However, a truck has different demands than a …",
+         "url": "http://techcrunch.com/2019/11/19/four-must-haves-for-the-tesla-cybertruck-all-electric-pickup-truck/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/Tesla-blackGettyImages-187005592.jpg?w=600",
+         "publishedAt": "2019-11-19T13:16:53Z",
+         "content": "Tesla is set to unveil its pickup this week and it needs to be widely different from its current lineup. The current line of Tesla vehicles share a lot of parts, and, logically, the Tesla pickup will do the same. However, a truck has different demands than a … [+7451 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Tesla’s ‘Full Self-Driving’ feature may get early-access release by the end of 2019",
+         "description": "Tesla may allow certain customers early access to a “feature complete” version of the company’s “full self-driving” capabilities by the end of 2019, Elon Musk said in a call with investors Wednesday. Musk said that this wasn’t “for sure” — but that he thinks …",
+         "url": "https://www.theverge.com/2019/10/23/20929529/tesla-full-self-driving-release-2019-beta",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg",
+         "publishedAt": "2019-10-23T23:38:00Z",
+         "content": "Elon Musk says select Tesla owners will get a feature complete version \r\nIllustration by Alex Castro / The Verge\r\nTesla may grant certain customers early access to a feature complete version of the companys full self-driving (FSD) capabilities by the end of 2… [+3767 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Tesla’s new Solar Roof costs less than a new roof plus solar panels, aims for install rate of 1K per week",
+         "description": "Tesla has launched the third iteration of its solar roof tile for residential home use, which it officially detailed in a blog post on Friday and in a call with media. Tesla CEO Elon Musk kicked off the call with some explanatory remarks on the V3 Solar Roof,…",
+         "url": "http://techcrunch.com/2019/10/25/teslas-new-solar-roof-costs-less-than-a-new-roof-plus-solar-panels-aims-for-install-rate-of-1k-per-week/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/SR-Hero_2880x1800.jpg?w=746",
+         "publishedAt": "2019-10-25T22:16:28Z",
+         "content": "Tesla has launched the third iteration of its solar roof tile for residential home use, which it officially detailed in a blog post on Friday and in a call with media. Tesla CEO Elon Musk kicked off the call with some explanatory remarks on the V3 Solar Roof,… [+4715 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Tesla surprises with a profit in the third quarter",
+         "description": "Tesla returned to profitability in the third quarter after two periods of losses, according to earnings reported after market closed Wednesday. The automaker’s third-quarter results included revenue of $6.3 billion and earnings per share, adjusted of $1.86. A…",
+         "url": "http://techcrunch.com/2019/10/23/tesla-surprises-with-a-profit-in-the-third-quarter/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/model-3@2.jpg?w=712",
+         "publishedAt": "2019-10-23T21:21:11Z",
+         "content": "Tesla returned to profitability in the third quarter after two periods of losses, according to earnings reported after market closed Wednesday.\r\nThe automaker’s third-quarter results included revenue of $6.3 billion and earnings per share, adjusted of $1.86. … [+638 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Tesla third-quarter earnings: What to expect and what we’re watching for",
+         "description": "Tesla is scheduled to report its third-quarter earnings after the market closes today. The earnings report comes at a critical time for Tesla as it prepares to begin production of the Model 3 at its new China factory. This earnings report, its first without c…",
+         "url": "http://techcrunch.com/2019/10/23/tesla-third-quarter-earnings-what-to-expect-and-what-were-watching-for/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/model3@2.jpg?w=711",
+         "publishedAt": "2019-10-23T17:11:44Z",
+         "content": "Tesla is scheduled to report its third-quarter earnings after the market closes today. The earnings report comes at a critical time for Tesla as it prepares to begin production of the Model 3 at its new China factory.\r\nThis earnings report, its first without … [+3003 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Behold, the Tesla Cybertruck is here",
+         "description": "Elon Musk revealed Thursday evening the Tesla Cybertruck, a futuristic pickup truck made of cold-rolled steel that will start at $39,900 and have between 250 miles and more than 500 miles of range. Musk has talked about producing an all-electric pickup truck …",
+         "url": "http://techcrunch.com/2019/11/21/behold-the-tesla-cybertruck-is-here/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/cybertruck-1.png?w=764",
+         "publishedAt": "2019-11-22T04:35:07Z",
+         "content": "Elon Musk revealed Thursday evening the Tesla Cybertruck, a futuristic pickup truck made of cold-rolled steel that will start at $39,900 and have between 250 miles and more than 500 miles of range.\r\nMusk has talked about producing an all-electric pickup truck… [+1758 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Anthony Ha",
+         "title": "Daily Crunch: Tesla unveils its futuristic Cybertruck",
+         "description": "The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here. 1. Behold, the Tesla Cybertruck is here Elon Musk has unveiled a veh…",
+         "url": "http://techcrunch.com/2019/11/22/daily-crunch-tesla-cybertruck/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/cybertruck-5.png?w=764",
+         "publishedAt": "2019-11-22T18:55:23Z",
+         "content": "The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here.\r\n1. Behold, the Tesla Cybertruck is here\r\nElon Musk has unveiled a v… [+2340 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Greg Kumparak",
+         "title": "Tesla accidentally busted two windows on the Cybertruck while demonstrating how tough they are",
+         "description": "Well, I don’t think that was supposed to happen. In what was one of the more surreal product launches I’ve seen, Tesla debuted its $39,900 Cybertruck pickup tonight. After running through some specs and hitting the truck’s door with a sledge hammer, Elon aske…",
+         "url": "http://techcrunch.com/2019/11/21/tesla-accidentally-busted-two-windows-on-the-cybertruck-while-demonstrating-how-tough-they-are/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/whoops.png?w=764",
+         "publishedAt": "2019-11-22T04:54:42Z",
+         "content": "Well, I don’t think that was supposed to happen.\r\nIn what was one of the more surreal product launches I’ve seen, Tesla debuted its $39,900 Cybertruck pickup tonight. After running through some specs and hitting the truck’s door with a sledge hammer, Elon ask… [+1076 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Matt Burns",
+         "title": "We have five questions about Tesla’s Cybertruck",
+         "description": "Tesla just unveiled its first pickup truck, and the Cybertruck gets a lot of things right. The look is polarizing, but from a truck perspective, it’s capable, practical, and relatively affordable compared to other pickups. Of course, all those qualifiers come…",
+         "url": "http://techcrunch.com/2019/11/22/we-have-five-questions-about-teslas-cybertruck/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/tesla-cybertruck.jpg?w=711",
+         "publishedAt": "2019-11-22T14:40:28Z",
+         "content": "Tesla just unveiled its first pickup truck, and the Cybertruck gets a lot of things right. The look is polarizing, but from a truck perspective, it’s capable, practical, and relatively affordable compared to other pickups. Of course, all those qualifiers come… [+3770 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Elon Musk will reveal Tesla’s ‘Cybertruck’ all-electric pickup on Nov. 21",
+         "description": "Tesla CEO Elon Musk said Wednesday that the company will unveil its all-electric “cyber truck” Nov. 21 in Los Angeles near the serial entrepreneur’s other company SpaceX. The date just so happens to coincide with the LA Auto Show. However, this is a Tesla eve…",
+         "url": "http://techcrunch.com/2019/11/06/elon-musk-will-reveal-teslas-cybertruck-all-electric-pickup-on-nov-21/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-930534182.jpeg?w=559",
+         "publishedAt": "2019-11-06T16:30:49Z",
+         "content": "Tesla CEO Elon Musk said Wednesday that the company will unveil its all-electric “cyber truck” Nov. 21 in Los Angeles near the serial entrepreneur’s other company SpaceX.\r\nThe date just so happens to coincide with the LA Auto Show. However, this is a Tesla ev… [+1220 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Walmart reaches settlement with Tesla over solar panel fires, drops lawsuit",
+         "description": "Walmart has dropped a lawsuit that accused Tesla of breach of contract and gross negligence after rooftop solar panel systems on seven of the retailer’s stores allegedly caught fire. A settlement has been reached and stipulation of dismissal has been filed wi…",
+         "url": "http://techcrunch.com/2019/11/05/walmart-reaches-settlement-with-tesla-over-solar-panel-fires-drops-lawsuit/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/02/5327411202_cb33f9e844_b.jpg?w=764",
+         "publishedAt": "2019-11-05T18:15:53Z",
+         "content": "Walmart has dropped a lawsuit that accused Tesla of breach of contract and gross negligence after rooftop solar panel systems on seven of the retailers stores allegedly caught fire.\r\nA settlement has been reached and stipulation of dismissal has been filed wi… [+1528 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Tesla Cybertruck first ride: inside Elon Musk’s electric pickup truck",
+         "description": "Tesla unveiled the Cybertruck on Thursday night, which is the company’s first electric pickup truck due in 2021. The Verge got one of the first rides in the Blade Runner-style truck, which has a design that’s already incredibly polarizing.",
+         "url": "https://www.theverge.com/2019/11/22/20976539/tesla-cybertruck-test-drive-electric-truck-pickup-video-features-price-elon-musk",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/8JDTdm8mzAraPrGvC97XAlEtcvA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19399335/sokane_191112_3807_8517.jpg",
+         "publishedAt": "2019-11-22T12:30:07Z",
+         "content": "Photo by Sean O’Kane / The Verge Riding shotgun in the polarizing prototype About an hour or so after Tesla CEO Elon Musk revealed an absurd, futuristic, brutalist electric pickup called Cybertruck to the world, I pulled myself up into its passenger seat. A T… [+6591 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Elon Musk predicts Tesla energy could be ‘bigger’ than its EV business",
+         "description": "Tesla CEO Elon Musk forecast that the company’s energy business will eventually be the same size as— or even bigger than — its automotive sector, the latest sign that the company plans to put more time and resources to scaling up its solar and storage product…",
+         "url": "http://techcrunch.com/2019/10/23/elon-musk-predicts-tesla-energy-could-be-bigger-than-its-ev-business/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/tesla-Powerpack-Angled.png?w=711",
+         "publishedAt": "2019-10-24T00:49:30Z",
+         "content": "Tesla CEO Elon Musk forecast that the company’s energy business will eventually be the same size as or even bigger than its automotive sector, the latest sign that the company plans to put more time and resources to scaling up its solar and storage products.\r… [+1863 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Matt Burns",
+         "title": "Here’s why the Tesla Cybertruck has its crazy look",
+         "description": "Elon Musk revealed the Cybertruck last night, saying it looks like nothing else on the market. That’s true, but the Cybertruck shares several key features with an unlikely pickup — the first-generation Honda Ridgeline. Both the Cybertruck and Honda Ridgeline …",
+         "url": "http://techcrunch.com/2019/11/22/heres-why-the-tesla-cybertruck-has-its-crazy-look/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/sailpillar2.png?w=764",
+         "publishedAt": "2019-11-22T15:55:29Z",
+         "content": "Elon Musk revealed the Cybertruck last night, saying it looks like nothing else on the market. That’s true, but the Cybertruck shares several key features with an unlikely pickup the first-generation Honda Ridgeline.\r\nBoth the Cybertruck and Honda Ridgeline a… [+3588 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Porsche trials online sales that still require a trip to the dealer",
+         "description": "Porsche has announced that it will start selling new and pre-owned cars and SUVs online in the US, but there’s a catch: buyers will still have to trek to a dealership to sign some paperwork and, of course, pick up their vehicle.",
+         "url": "https://www.theverge.com/tldr/2019/10/29/20938313/porsche-online-sales-website-orders-dealerships-tesla",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/kBE9ALm7MpPDcIuZrXMZ7Rwoowo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19167803/porsche_taycan_turbo_1098.jpg",
+         "publishedAt": "2019-10-29T17:50:52Z",
+         "content": "Filed under:\r\nStarting with 25 dealers in the US\r\nPhoto by Sean OKane / The Verge\r\nPorsche has announced it will start selling new and pre-owned cars and SUVs online in the US, but theres a catch: buyers will still have to trek to a dealership to sign some pa… [+1803 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Consumer Reports puts Tesla Model 3, Model S back on its recommended list after reliability improves",
+         "description": "Tesla gained ground and moved up four spots in in the latest Annual Auto Reliability Survey from Consumer Reports, thanks largely to improvements with the Model 3. Reliability has improved in the Model 3 and Model S enough that Consumer Reports can now recomm…",
+         "url": "http://techcrunch.com/2019/11/14/consumer-reports-puts-tesla-model-3-model-s-back-on-its-recommended-list-after-reliability-improves/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/Tesla-fleet-S3XY.jpg?w=764",
+         "publishedAt": "2019-11-14T21:01:20Z",
+         "content": "Tesla gained ground and moved up four spots in in the latest Annual Auto Reliability Survey from Consumer Reports, thanks largely to improvements with the Model 3.\r\nReliability has improved in the Model 3 and Model S enough that Consumer Reports can now recom… [+2070 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Tesla’s Cybertruck is made of the same stainless steel alloy that SpaceX is using for Starship",
+         "description": "Tesla CEO Elon Musk unveiled the much-anticipated Cybertruck electric pickup in LA on Thursday, and the vehicle is obviously getting a lot of attention for its eye-catching and unique design. It looks more like a rover designed for space exploration than a tr…",
+         "url": "http://techcrunch.com/2019/11/22/teslas-cybertruck-is-made-of-the-same-stainless-steel-alloy-that-spacex-is-using-for-starship/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/Cybertruck-5.jpeg?w=600",
+         "publishedAt": "2019-11-22T13:24:48Z",
+         "content": "Tesla CEO Elon Musk unveiled the much-anticipated Cybertruck electric pickup in LA on Thursday, and the vehicle is obviously getting a lot of attention for its eye-catching and unique design. It looks more like a rover designed for space exploration than a tr… [+2404 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Ford Mustang Mach-E photos, pricing leak ahead of official debut",
+         "description": "It appears someone at Ford wasn’t careful enough with the upcoming Mustang Mach-E reservation website, because now a bunch of photos and specs have leaked three days before the car is set to make its official debut. A bunch of screen grabs ended up on the for…",
+         "url": "https://www.theverge.com/2019/11/15/20966754/ford-mustang-mach-e-photos-price-leak-website-range-design-electric",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/yIDMUAQmJTUVrgMyhl6y8uV4ZUo=/46x0:1054x528/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19379711/MachE_7.png",
+         "publishedAt": "2019-11-15T18:13:05Z",
+         "content": "It appears someone at Ford wasn’t careful enough with the upcoming Mustang Mach-E reservation website, because now a bunch of photos and specs have leaked three days before the car is set to make its official debut. A bunch of screen grabs ended up on the for… [+2857 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Thomas Ricker",
+         "title": "Elon Musk’s Cybertruck is here, and so are the jokes",
+         "description": "Elon Musk’s Cybertruck is divisive, to put it lightly. The Tesla pickup is every bit “the futuristic-like cyberpunk, Blade Runner pickup truck” Musk said it would be, even telegraphing its alienating aesthetic last year, conceding that he might have to build …",
+         "url": "https://www.theverge.com/2019/11/22/20975725/love-hate-telsa-cybertruck-design",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/DJWrbjL03pKyZfIthhrLKbmAhEM=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19399088/tesla_sc_thumb_textless.jpg",
+         "publishedAt": "2019-11-22T06:32:52Z",
+         "content": "“Please clap.” Elon Musk’s Cybertruck is nothing if not divisive. But nobody should feign surprise: the warnings signs were there. His Tesla pickup passion project is every bit “ the futuristic-like cyberpunk, Blade Runner pickup truck ” Musk said it would be… [+2375 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Greg Kumparak",
+         "title": "Tesla’s Cybertruck will have a solar charging option, says Musk",
+         "description": "Tesla revealed its Cybertruck pickup last night, a SciFi-tastic wedge built from the same steel alloy that SpaceX is using for its Starship spaceship. Elon Musk spent about twenty minutes showing off the truck, with demos ranging from a game of tug-of-war aga…",
+         "url": "http://techcrunch.com/2019/11/22/teslas-cybertruck-will-have-a-solar-charging-option-says-musk/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/Cybertruck.png?w=695",
+         "publishedAt": "2019-11-22T19:29:02Z",
+         "content": "Tesla revealed its Cybertruck pickup last night, a SciFi-tastic wedge built from the same steel alloy that SpaceX is using for its Starship spaceship.\r\nElon Musk spent about twenty minutes showing off the truck, with demos ranging from a game of tug-of-war ag… [+1705 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Tesla to build first European factory in Berlin",
+         "description": "Elon Musk says \"outstanding\" German engineering is part of the reason he picked the new factory site.",
+         "url": "https://www.bbc.co.uk/news/business-50400068",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F1F/production/_109638939_musktesla.jpg",
+         "publishedAt": "2019-11-13T02:44:21Z",
+         "content": "Image copyrightGetty Images\r\nTesla's chief executive, Elon Musk, has said Berlin will be the site of its first European factory as the carmaker's expansion plans power ahead. \r\nMr Musk said the firm would also build an engineering and design centre in the Ger… [+1801 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Mustang Mach-E: 5 Tech and Design Details That Stood Out",
+         "description": "Ford finally showed the world its highly anticipated all-electric crossover, the Mustang Mach-E. The vehicle, which was unveiled Sunday at the Hawthorne Airport and in Tesla’s backyard, marks a series of firsts for Ford and the Mustang badge. It’s the first v…",
+         "url": "http://techcrunch.com/2019/11/17/mustang-mach-e-5-tech-and-design-details-that-stood-out/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/ford-mustang-mach-eGettyImages-1183186898.jpg?w=600",
+         "publishedAt": "2019-11-18T07:07:05Z",
+         "content": "Ford finally showed the world its highly anticipated all-electric crossover, the Mustang Mach-E. The vehicle, which was unveiled Sunday at the Hawthorne Airport and in Tesla’s backyard, marks a series of firsts for Ford and the Mustang badge.\r\nIt’s the first … [+3676 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Ford unveils all-electric car - the Mustang",
+         "description": "The new vehicle has a 370-mile range, no door handles and storage under the front bonnet.",
+         "url": "https://www.bbc.co.uk/news/technology-50460241",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13364/production/_109729687_mediaitem109729686.jpg",
+         "publishedAt": "2019-11-18T13:07:14Z",
+         "content": "Image copyrightFord\r\nFord has unveiled its all-electric Mustang Mach E at a glitzy event in Los Angeles that included an appearance by actor Idris Elba.\r\nThe top-range version of the car can travel up to 370 miles on a full charge and recharge 57 miles (92km)… [+1670 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Jon Porter",
+         "title": "Mazda’s first electric car includes rear-hinged ‘freestyle’ doors",
+         "description": "The Mazda MX-30 is the first all-electric car from the Japanese automaker. On both sides, its rear doors open from the back rather than the front, and there’s also no center pillar.",
+         "url": "https://www.theverge.com/2019/10/23/20928273/mazda-mx-30-electric-car-release-date-price-range-features",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/aaUmgzYKljW-qjqkJ2w8FK5mltg=/0x20:1024x556/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19312093/MAZDA_MX_30European_specification_10_1024x576.jpg",
+         "publishedAt": "2019-10-23T09:10:36Z",
+         "content": "The MX-30 will start shipping in late 2020\r\nImage: Mazda\r\nThe Mazda MX-30 is the Japanese automakers first electric car, and it features a pretty eye-catching design for its side doors. On both sides, the MX-30s rear doors open from the back rather than the f… [+1496 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Porsche pilots online vehicle sales in the U.S. and Germany",
+         "description": "Porsche will begin selling its vehicles online in the U.S. for the first time, the company announced on Monday. To begin with, the company is proceeding with a pilot program that will be offered with 25 of its U.S.-based dealer partners, but the automaker say…",
+         "url": "http://techcrunch.com/2019/10/28/porsche-pilots-online-vehicle-sales-in-the-u-s-and-germany/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/80e73484-f82a-4b62-9da9-b39b5ccedd5e.jpg?w=692",
+         "publishedAt": "2019-10-28T15:55:21Z",
+         "content": "Porsche will begin selling its vehicles online in the U.S. for the first time, the company announced on Monday. To begin with, the company is proceeding with a pilot program that will be offered with 25 of its U.S.-based dealer partners, but the automaker say… [+1562 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "All-electric Mini Cooper SE priced starting at $29,900 in the U.S.",
+         "description": "The new all-electric Mini Cooper SE, the first Mini designed from the ground up as an electric car, is going to retail in the U.S. starting at $29,900 (plus an $850 Destination and Handling fee) – before any tax incentives are applied. That puts final pricing…",
+         "url": "http://techcrunch.com/2019/10/28/all-electric-mini-cooper-se-priced-starting-at-29900-in-the-u-s/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/P90357233_highRes_the-new-mini-cooper-.jpg?w=601",
+         "publishedAt": "2019-10-28T14:20:13Z",
+         "content": "The new all-electric Mini Cooper SE, the first Mini designed from the ground up as an electric car, is going to retail in the U.S. starting at $29,900 (plus an $850 Destination and Handling fee) before any tax incentives are applied. That puts final pricing a… [+1327 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Matt Burns",
+         "title": "The Mustang Mach-E is the exciting shape of the electric future",
+         "description": "Ford just unveiled its first EV and it’s stunning. Called the Mustang Mach-E it appears to get a lot of things right. From the branding to little surprises, the Mustang Mach-E looks to be a hit. “We knew we had to do something different and something exciting…",
+         "url": "http://techcrunch.com/2019/11/18/the-mustang-mach-e-is-the-exciting-shape-of-the-electric-future/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/Mach-E-Red-Front3-4-1.jpg?w=739",
+         "publishedAt": "2019-11-18T14:53:28Z",
+         "content": "Ford just unveiled its first EV and it’s stunning. Called the Mustang Mach-E it appears to get a lot of things right. From the branding to little surprises, the Mustang Mach-E looks to be a hit.\r\nWe knew we had to do something different and something exciting… [+8486 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Anthony Ha",
+         "title": "Daily Crunch: Meet Apple’s new MacBook Pro",
+         "description": "The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here. 1. MacBook Pro 16” first impressions: Return of the Mack Over the pa…",
+         "url": "http://techcrunch.com/2019/11/13/daily-crunch-macbook-pro/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/MacBook-Pro-16-IMG_2806-2.jpeg?w=533",
+         "publishedAt": "2019-11-13T20:09:54Z",
+         "content": "The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here.\r\n1. MacBook Pro 16 first impressions: Return of the Mack\r\nOver the p… [+2319 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Jacob Kastrenakes",
+         "title": "YouTubers raise $10 million for tree charity — and bring in tens of millions of views",
+         "description": "Team Trees (#TeamTrees) wants to raise $20 million to plant 20 million trees through the Arbor Day Foundation. Tesla’s Elon Musk, YouTube’s Susan Wojcicki, Shopify’s CEO Tobi Lütke, and Twitter’s Jack Dorsey are all listed as making donations. PewDiePie and N…",
+         "url": "https://www.theverge.com/2019/10/31/20941626/teamtrees-youtuber-charity-fundraiser-climate-change-trees-musk-dorsey-pewdiepie",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/CXLc2reAOyDU1g_o-VVK339gNcA=/0x96:1335x795/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19334648/tt.png",
+         "publishedAt": "2019-10-31T14:55:26Z",
+         "content": "Crossing the fundraisers halfway point in under a week\r\nYouTubers have raised more than $10 million as part of a fundraiser to plant trees across the globe, meeting more than half of the goal organizers laid out last week. The initiative, called Team Trees, h… [+2921 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Megan Rose Dickey",
+         "title": "Swiftmile will become the ‘gas station’ for electric bikes and scooters in Austin",
+         "description": "Anyone who has tried to ride an electric scooter knows the likelihood of finding one with a charged battery is quite low. Swiftmile, which just landed a contract with the city of Austin, supplies cities and private operators with docks equipped to park and ch…",
+         "url": "http://techcrunch.com/2019/10/24/swiftmile-will-become-the-gas-station-for-electric-bikes-and-scooters-in-austin/",
+         "urlToImage": "https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png",
+         "publishedAt": "2019-10-24T18:02:34Z",
+         "content": "Anyone who has tried to ride an electric scooter knows the likelihood of finding one with a charged battery is quite low. Swiftmile, which just landed a contract with the city of Austin, supplies cities and private operators with docks equipped to park and ch… [+3026 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Ford’s Mustang Mach-E all-electric SUV revealed in leaked photos, prices and configurations",
+         "description": "Ford is officially debuting its fully electric crossover SUV on Saturday, November 17 – but we got a look at the new Mach-E (which was just officially named yesterday) a couple of days early. The leak comes from Ford’s own website, as screenshotted for poster…",
+         "url": "http://techcrunch.com/2019/11/15/fords-mustang-mach-e-all-electric-suv-revealed-in-leaked-photos-prices-and-configurations/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/g9qtjepqhe9i3aazbv0p.png?w=764",
+         "publishedAt": "2019-11-15T13:03:38Z",
+         "content": "Ford is officially debuting its fully electric crossover SUV on Saturday, November 17 but we got a look at the new Mach-E (which was just officially named yesterday) a couple of days early. The leak comes from Ford’s own website, as screenshotted for posterit… [+3089 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Matt Burns",
+         "title": "BMW’s magical gesture control finally makes sense as touchscreens take over cars",
+         "description": "BMW has been equipping its cars with in-air gesture control for several years and I never paid attention to it. It seemed redundant. Why wave your hand in the air when there’s dials, buttons, and touchscreens to do the same? Until this week, that is, when too…",
+         "url": "http://techcrunch.com/2019/11/04/bmws-magical-gesture-control-finally-makes-sense-as-touchscreens-take-over-cars/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/bmw-gestures.gif?w=711",
+         "publishedAt": "2019-11-04T21:52:05Z",
+         "content": "BMW has been equipping its cars with in-air gesture control for several years and I never paid attention to it. It seemed redundant. Why wave your hand in the air when there’s dials, buttons, and touchscreens to do the same? Until this week, that is, when too… [+2855 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Mercedes prices its all-electric EQC crossover at $67,900",
+         "description": "The Mercedes-Benz EQC 400 4MATIC, the German automaker’s first all-electric vehicle under its new EQ brand, will start at $67,900 when it arrives in the U.S. early next year. Mercedes-Benz announced Wednesday the price of the EQC 400 at the LA Auto Show. The …",
+         "url": "http://techcrunch.com/2019/11/20/mercedes-prices-its-all-electric-eqc-crossover-at-67900/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/EQC-Header-source.jpg?w=604",
+         "publishedAt": "2019-11-20T19:45:22Z",
+         "content": "The Mercedes-Benz EQC 400 4MATIC, the German automaker’s first all-electric vehicle under its new EQ brand, will start at $67,900 when it arrives in the U.S. early next year.\r\nMercedes-Benz announced Wednesday the price of the EQC 400 at the LA Auto Show. The… [+2761 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "BBC News",
+         "title": "Elon Musk's new Tesla Cybertruck smashed during demo",
+         "description": "During a demo for the new Tesla 'Cybertruck', Elon Musk had an embarrassing moment.",
+         "url": "https://www.bbc.co.uk/news/av/technology-50514026/elon-musk-s-new-tesla-cybertruck-smashed-during-demo",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/185E/production/_109783260_p07vrm0y.jpg",
+         "publishedAt": "2019-11-22T08:03:24Z",
+         "content": null
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Elon Musk will reveal Tesla's 'Cybertruck' all-electric pickup on Nov. 21",
+         "description": "Tesla CEO Elon Musk said Wednesday that the company will unveil its all-electric \"cyber truck\" Nov. 21 in Los Angeles near the serial entrepreneur's other company SpaceX. Musk has talked about producing an all-electric pickup truck for years now. In December,…",
+         "url": "https://techcrunch.com/2019/11/06/elon-musk-will-reveal-teslas-cybertruck-all-electric-pickup-on-nov-21/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Xg02HPMMxSbDON3JDqBK6g--~B/aD0xNjMyO3c9MjI4MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/a556b85904651d4c4ea5b21b8892103d",
+         "publishedAt": "2019-11-06T16:30:49Z",
+         "content": "Tesla CEO Elon Musk said Wednesday that the company will unveil its all-electric \"cyber truck\" Nov. 21 in Los Angeles near the serial entrepreneur's other company SpaceX.\r\nThe date just so happens to coincide with the LA Auto Show. However, this is a Tesla ev… [+1335 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Danny Crichton",
+         "title": "Three of Apple and Google’s former star chip designers launch NUVIA with $53M in series A funding",
+         "description": "Silicon is apparently the new gold these days, or so VCs hope. What was once a no-go zone for venture investors, who feared the long development lead times and high technical risk required for new entrants in the semiconductor field, has now turned into one o…",
+         "url": "http://techcrunch.com/2019/11/15/three-of-apple-and-googles-former-star-chip-designers-launch-nuvia-with-53m-in-series-a-funding/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1136861473.jpg?w=640",
+         "publishedAt": "2019-11-15T20:08:44Z",
+         "content": "Silicon is apparently the new gold these days, or so VCs hope.\r\nWhat was once a no-go zone for venture investors, who feared the long development lead times and high technical risk required for new entrants in the semiconductor field, has now turned into one … [+8947 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Walmart reaches settlement with Tesla over solar panel fires, drops lawsuit",
+         "description": "Walmart has dropped a lawsuit that accused Tesla of breach of contract and gross negligence after rooftop solar panel systems on seven of the retailer’s stores allegedly caught fire. A settlement has been reached and stipulation of dismissal has been filed wi…",
+         "url": "https://techcrunch.com/2019/11/05/walmart-reaches-settlement-with-tesla-over-solar-panel-fires-drops-lawsuit/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/12HdWHzutBwbXBLRzp3HCw--~B/aD00MTg7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/823908ba399b6e2f136c588722e4df7e",
+         "publishedAt": "2019-11-05T18:15:53Z",
+         "content": "Walmart has dropped a lawsuit that accused Tesla of breach of contract and gross negligence after rooftop solar panel systems on seven of the retailers stores allegedly caught fire.\r\nA settlement has been reached and stipulation of dismissal has been filed wi… [+1528 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Connie Loizos",
+         "title": "Maryanna Saenko and Steve Jurvetson of Future Ventures talk SpaceX, the Boring Company, and... ayahuasca",
+         "description": "Last week, at a StrictlyVC event in San Francisco, we sat down with Maryanna Saenko and Steve Jurvetson, investors who came together to create the investment outfit Future Ventures roughly one year ago. It was their first public appearance together since anno…",
+         "url": "http://techcrunch.com/2019/11/22/maryanna-saenko-and-steve-jurvetson-of-future-ventures-talk-spacex-the-boring-company-and-ayahuasca/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/49067157507_2b481ffdaa_k.jpg?w=600",
+         "publishedAt": "2019-11-23T00:03:50Z",
+         "content": "Last week, at a StrictlyVC event in San Francisco, we sat down with Maryanna Saenko and Steve Jurvetson, investors who came together to create the investment outfit Future Ventures roughly one year ago. It was their first public appearance together since anno… [+15358 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Here's why the Tesla Cybertruck has its crazy look",
+         "description": "Both the Cybertruck and Honda Ridgeline are built differently from standard pickups. Because of the unibody pickup design, the vehicle has to employ a key design element to enable high-capacity towing: A sail pillar. Most often, a vehicle's towing capacity is…",
+         "url": "https://techcrunch.com/2019/11/22/heres-why-the-tesla-cybertruck-has-its-crazy-look/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/yXWO9QM3TbTiUkii5yCCdw--~B/aD01Mjg7dz0xNzYyO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/9acf900593b0d5e919cc3dc1d21d3076",
+         "publishedAt": "2019-11-22T15:55:29Z",
+         "content": "Elon Musk revealed the Cybertruck last night, saying it looks like nothing else on the market. That's true, but the Cybertruck shares several key features with an unlikely pickup the first-generation Honda Ridgeline.\r\nBoth the Cybertruck and Honda Ridgeline a… [+3863 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Tesla's new Solar Roof costs less than a new roof plus solar panels, aims for install rate of 1K per week",
+         "description": "Tesla has launched the third iteration of its solar roof tile for residential home use, which it officially detailed in a blog post on Friday and in a call with media. Tesla CEO Elon Musk kicked off the call with some explanatory remarks on the V3 Solar Roof,…",
+         "url": "https://techcrunch.com/2019/10/25/teslas-new-solar-roof-costs-less-than-a-new-roof-plus-solar-panels-aims-for-install-rate-of-1k-per-week/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4i9nl.8QA5xasPl2K5elzg--~B/aD0xMjg1O3c9MjM5NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ae301ba4311747c8c4a7f774889a178f",
+         "publishedAt": "2019-10-25T22:16:28Z",
+         "content": "Tesla has launched the third iteration of its solar roof tile for residential home use, which it officially detailed in a blog post on Friday and in a call with media. Tesla CEO Elon Musk kicked off the call with some explanatory remarks on the V3 Solar Roof,… [+4721 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Casey Newton",
+         "title": "Twitter is finally backing up its talk with action",
+         "description": "After years of delays, the company is finally shipping meaningful features — and at a surprising clip. The launch of Topics this week is the latest in a string of important recent releases",
+         "url": "https://www.theverge.com/interface/2019/11/7/20951593/twitter-topics-new-features-shipping",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/31wcDz-dd7XKS5dJnkQVko0eII0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12645609/acastro_180827_1777_0002.jpg",
+         "publishedAt": "2019-11-07T11:00:00Z",
+         "content": "After years of delays, the company is finally shipping meaningful features  and at a surprising clip\r\nIllustration by Alex Castro / The Verge\r\nThis story is part of a group of stories called \r\nOne of my chief criticisms of Twitter over the years has been that… [+11990 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "Tesla shares surge after unexpected profit",
+         "description": "The electric carmaker says its plans in China and for its next model are ahead of schedule.",
+         "url": "https://www.bbc.co.uk/news/business-50159963",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1240E/production/_109266747_gettyimages-1078753032.jpg",
+         "publishedAt": "2019-10-23T22:09:23Z",
+         "content": "Image copyrightGetty ImagesImage caption\r\n Mr Musk met Shanghai Mayor Ying Yong in January as work began on the new Gigafactory 3\r\nTesla shares have surged to their highest levels since February, after it told investors that manufacturing at its Chinese facto… [+1785 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Maryanna Saenko and Steve Jurvetson of Future Ventures talk SpaceX, the Boring Co., and... ayahuasca",
+         "description": "Last week, at a StrictlyVC event in San Francisco, we sat down with Maryanna Saenko and Steve Jurvetson, investors who came together to create the investment outfit Future Ventures roughly one year ago. It was their first public appearance together since anno…",
+         "url": "https://techcrunch.com/2019/11/22/maryanna-saenko-and-steve-jurvetson-of-future-ventures-talk-spacex-the-boring-company-and-ayahuasca/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Rs51aNLWanyvIo5Esc0JsQ--~B/aD0xMzY1O3c9MjA0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/9ca0538b9f515b878988eca7f5fe340d",
+         "publishedAt": "2019-11-23T00:03:50Z",
+         "content": "Last week, at a StrictlyVC event in San Francisco, we sat down with Maryanna Saenko and Steve Jurvetson, investors who came together to create the investment outfit Future Ventures roughly one year ago. It was their first public appearance together since anno… [+15328 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "All-electric Mini Cooper SE priced starting at $29,900 in the U.S.",
+         "description": "The new all-electric Mini Cooper SE, the first Mini designed from the ground up as an electric car, is going to retail in the U.S. starting at $29,900 (plus an $850 Destination and Handling fee) – before any tax incentives are applied. BMW Group-owned Mini un…",
+         "url": "https://techcrunch.com/2019/10/28/all-electric-mini-cooper-se-priced-starting-at-29900-in-the-u-s/",
+         "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+         "publishedAt": "2019-10-28T14:20:13Z",
+         "content": "The new all-electric Mini Cooper SE, the first Mini designed from the ground up as an electric car, is going to retail in the U.S. starting at $29,900 (plus an $850 Destination and Handling fee) before any tax incentives are applied. That puts final pricing a… [+1366 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Porsche pilots online vehicle sales in the U.S. and Germany",
+         "description": "Porsche will begin selling its vehicles online in the U.S. To begin with, the company is proceeding with a pilot program that will be offered with 25 of its U.S.-based dealer partners, but the automaker says it could expand to cover the U.S. market more broad…",
+         "url": "https://techcrunch.com/2019/10/28/porsche-pilots-online-vehicle-sales-in-the-u-s-and-germany/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/14pYe_IPK5zrzqneD5AxJg--~B/aD02MjQ7dz0xMDgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/95abb7d20615cafb3d2ab69c2a10eb0e",
+         "publishedAt": "2019-10-28T15:55:21Z",
+         "content": "Porsche will begin selling its vehicles online in the U.S. for the first time, the company announced on Monday. To begin with, the company is proceeding with a pilot program that will be offered with 25 of its U.S.-based dealer partners, but the automaker say… [+1566 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Tesla all-electric ATV makes a surprise debut at Cybertruck event",
+         "description": "Tesla CEO Elon Musk definitely didn't have the most issue-free presentation during last night's Cybertruck unveil, but he did pull off a pretty impressive 'one more thing moment' – revealing a surprise all-electric all-terrain vehicle (ATV) that Tesla created…",
+         "url": "https://techcrunch.com/2019/11/22/tesla-all-electric-atv-makes-a-surprise-debut-at-its-cybertruck-event/",
+         "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UQ5vzx2RhJxN.aL42nlvVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD01NjYuMDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/ct15kcGUj7Sq5pQX4qAi8g--~B/aD0zOTg7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/e7ecf079709d1eb34d69cb17d39c9c68",
+         "publishedAt": "2019-11-22T13:57:16Z",
+         "content": "Tesla CEO Elon Musk definitely didn't have the most issue-free presentation during last night's Cybertruck unveil, but he did pull off a pretty impressive 'one more thing moment' revealing a surprise all-electric all-terrain vehicle (ATV) that Tesla created t… [+1365 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Behold, the Tesla Cybertruck is here",
+         "description": "Elon Musk revealed Thursday evening the Tesla Cybertruck, a futuristic pickup truck made of cold-rolled steel that will start at $39,900 and have between 250 miles and more than 500 miles of range. Musk has talked about producing an all-electric pickup truck …",
+         "url": "https://techcrunch.com/2019/11/21/behold-the-tesla-cybertruck-is-here/",
+         "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pCOGsrDGr.IzGieILAJK_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD01MTMuMDY2NjY2NjY2NjY2Nw--/https://s.yimg.com/uu/api/res/1.2/2paLNUY7l0tE4oiyD6Af1A--~B/aD01MzU7dz0xMzM2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/bd28098cd0713168acfdd55da8c6ead5",
+         "publishedAt": "2019-11-22T04:35:07Z",
+         "content": "Elon Musk revealed Thursday evening the Tesla Cybertruck, a futuristic pickup truck made of cold-rolled steel that will start at $39,900.\r\nTesla will offer three variants of the cybertruck. The cheapest version, a single motor and rear wheel drive model, will… [+2463 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Anthony Ha",
+         "title": "Daily Crunch: Tesla unveils its futuristic Cybertruck",
+         "description": "The Daily Crunch is TechCrunch's roundup of our biggest and most important stories. Elon Musk has unveiled a vehicle that looks like it was ripped straight out of a post-apocalyptic science fiction movie. The Tesla Cybertruck is made of cold-rolled steel, arm…",
+         "url": "https://techcrunch.com/2019/11/22/daily-crunch-tesla-cybertruck/",
+         "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Z_7cOT8MoD9OEtYpZOj7Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD01MTUuMg--/https://s.yimg.com/uu/api/res/1.2/3mAJ2uLboGKO6IlSBhxXIg--~B/aD01MzE7dz0xMzE4O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/d410f478928bb98abf0a9814b5561e2e",
+         "publishedAt": "2019-11-22T18:55:23Z",
+         "content": "The Daily Crunch is TechCrunch's roundup of our biggest and most important stories. If you'd like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here.\r\n1. Behold, the Tesla Cybertruck is here\r\nElon Musk has unveiled a v… [+2340 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Greg Kumparak",
+         "title": "Tesla accidentally busted two windows on the Cybertruck while demonstrating how tough they are",
+         "description": "In what was one of the more surreal product launches I've seen, Tesla debuted its $39,900 Cybertruck pickup tonight. After running through some specs and hitting the truck's door with a sledge hammer, Elon asked an on-stage companion to demonstrate the streng…",
+         "url": "https://techcrunch.com/2019/11/21/tesla-accidentally-busted-two-windows-on-the-cybertruck-while-demonstrating-how-tough-they-are/",
+         "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VBWdcwq2BwBW4cCsp0t8TQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD01NjUuMjA4NjgxMTM1MjI1Mw--/https://s.yimg.com/uu/api/res/1.2/8_ERFwV7cq7jEpXkE29bsg--~B/aD01Mjk7dz0xMTk4O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/2648a87624bc6b55a853306eb21ac43b",
+         "publishedAt": "2019-11-22T04:54:42Z",
+         "content": "Well, I don't think that was supposed to happen.\r\nIn what was one of the more surreal product launches I've seen, Tesla debuted its $39,900 Cybertruck pickup tonight. After running through some specs and hitting the truck's door with a sledge hammer, Elon ask… [+1080 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Ghost wants to retrofit your car so it can drive itself on highways by 2020",
+         "description": "A new autonomous vehicle company is on the streets — and unbeknownst to most, has been since 2017. Ghost Locomotion, which emerged Thursday from stealth with $63.7 million in investment from Keith Rabois at Founders Fund, Vinod Khosla at Khosla Ventures and M…",
+         "url": "https://techcrunch.com/2019/11/07/ghost-wants-to-retrofit-your-car-so-it-can-drive-itself-on-highways-by-2020/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/jFVIpvnwbdJgw1W6InAxRw--~B/aD01NzkyO3c9ODY4ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/be518680d23c558292bffb1fb582d12a",
+         "publishedAt": "2019-11-07T18:01:48Z",
+         "content": "A new autonomous vehicle company is on the streets and unbeknownst to most, has been since 2017. Unlike the majority in this burgeoning industry, this new entrant isn't trying to launch a robotaxi service or sell a self-driving system to suppliers and automak… [+6392 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Battery tech startup Sila Nano lands $45 million and Tesla veteran Kurt Kelty - TechCrunch",
+         "description": "Sila Technologies, the battery materials company that has partnered with BMW and Daimler, landed $45 million in new funding and hired two high-profile executives, including Kurt Kelty, who led the battery cell team at Tesla for more than a decade. Kelty, who …",
+         "url": "http://techcrunch.com/2019/11/04/battery-tech-startup-sila-nano-lands-45-million-and-tesla-veteran-kurt-kelty/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/sila-nano-Cells3.jpeg?w=573",
+         "publishedAt": "2019-11-04T18:52:47Z",
+         "content": "Sila Technologies, the battery materials company that has partnered with BMW and Daimler, landed $45 million in new funding and hired two high-profile executives, including Kurt Kelty, who led the battery cell team at Tesla for more than a decade.\r\nKelty, who… [+3243 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Ford's Mustang Mach-E all-electric SUV revealed in leaked photos, prices and configurations",
+         "description": "Ford is officially debuting its fully electric crossover SUV on Saturday, November 17 – but we got a look at the new Mach-E (which was just officially named yesterday) a couple of days early. The leak comes from Ford's own website, as screenshotted for poster…",
+         "url": "https://techcrunch.com/2019/11/15/fords-mustang-mach-e-all-electric-suv-revealed-in-leaked-photos-prices-and-configurations/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hsrRVwBFi8oUVBOH0xoC9w--~B/aD02OTE7dz0xNDI3O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/d46797483af6b0b18be15e391a657ee6",
+         "publishedAt": "2019-11-15T13:03:38Z",
+         "content": "Ford is officially debuting its fully electric crossover SUV on Saturday, November 17 but we got a look at the new Mach-E (which was just officially named yesterday) a couple of days early. The leak comes from Ford's own website, as screenshotted for posterit… [+3089 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Tesla’s fourth Gigafactory will be in Berlin, Elon Musk says",
+         "description": "Tesla CEO Elon Musk said Tuesday that his company’s fourth Gigafactory will be built just outside Berlin, Germany. The announcement comes as Tesla is finishing up construction on the third Gigafactory outside Shanghai, China, and just a few days after New Yor…",
+         "url": "https://www.theverge.com/2019/11/12/20961812/elon-musk-berlin-tesla-ceo-fourth-gigafactory-construction",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/80sT-YgyB_YSnAMq9TgAhh2D_Uo=/0x231:2040x1299/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13590421/bfarsace_181115_3101_gigafactory_0021.jpg",
+         "publishedAt": "2019-11-12T20:32:26Z",
+         "content": "I love Berlin\r\nTeslas first Gigafactory outside Reno, Nevada.\r\nPhoto by Becca Farsace / The Verge\r\nTesla CEO Elon Musk said Tuesday that his companys fourth Gigafactory will be built just outside Berlin, Germany. \r\nThe announcement comes as Tesla is finishing… [+1004 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Tesla’s new Solar Glass Roof tiles are the first version ready for a wide rollout",
+         "description": "Elon Musk has unveiled a redesign of Tesla’s Solar Roof tiles, dubbed “Solar Glass Roof.” The new roof design will cost around $42,500 for a 2,000-square-foot roof with 10kW of solar capacity, according to Tesla’s website, though it will vary by size and loca…",
+         "url": "https://www.theverge.com/2019/10/25/20932831/tesla-new-solar-glass-roof-elon-musk-version-three",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/8DPIlUByICu5qcTB3FSivc2A5Us=/0x130:1672x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19319980/Screen_Shot_2019_10_25_at_5.31.31_PM.png",
+         "publishedAt": "2019-10-25T22:27:45Z",
+         "content": "Elon Musk is targeting 1,000 installations per month in a few months\r\nElon Musk has unveiled a redesign of Teslas Solar Roof tiles, dubbed Solar Glass Roof. The new roof design will cost around $42,500 for a 2,000-square-foot roof with 10kW of solar capacity … [+4980 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Mustang Mach-E: 5 Tech and Design Details That Stood Out",
+         "description": "Ford finally showed the world its highly anticipated all-electric crossover, the Mustang Mach-E. The vehicle, which was unveiled Sunday at the Hawthorne Airport and in Tesla's backyard, marks a series of firsts for Ford and the Mustang badge. It's the first v…",
+         "url": "https://techcrunch.com/2019/11/17/mustang-mach-e-5-tech-and-design-details-that-stood-out/",
+         "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wCE1NGhHz5SNrq46toXgfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTQuNA--/https://s.yimg.com/uu/api/res/1.2/Ifr6H1ThRWVqAa7gUAfFHQ--~B/aD0zMzIzO3c9NDk4MTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/3ae58d51b774fb812611ecb3ddbfea26",
+         "publishedAt": "2019-11-18T07:07:05Z",
+         "content": "Ford finally showed the world its highly anticipated all-electric crossover, the Mustang Mach-E. The vehicle, which was unveiled Sunday at the Hawthorne Airport and in Tesla's backyard, marks a series of firsts for Ford and the Mustang badge.\r\nIt's the first … [+4021 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "#TeamTrees: YouTube stars boost tree planting campaign to over $8m",
+         "description": "The campaign, supported by YouTubers such as Jeffree Star, has raised more than $8m in five days.",
+         "url": "https://www.bbc.co.uk/news/world-us-canada-50233221",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B24/production/_109463291_053320720.jpg",
+         "publishedAt": "2019-10-30T13:21:33Z",
+         "content": "Image copyrightGetty ImagesImage caption\r\n Beauty YouTuber Jeffree Star donated $50,000 to the campaign\r\nA global tree planting campaign led by YouTube stars has seen more than $8m (£6.2m) raised in just five days.\r\nBeauty YouTuber Jeffree Star and US entrepr… [+2388 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": null,
+         "title": "Three of Apple and Google’s former star chip designers launch NUVIA with $53M in series A funding",
+         "description": "Silicon is apparently the new gold these days, or so VCs hope. What was once a no-go zone for venture investors, who feared the long development lead times and high technical risk required for new entrants in the semiconductor field, has now turned into one o…",
+         "url": "https://techcrunch.com/2019/11/15/three-of-apple-and-googles-former-star-chip-designers-launch-nuvia-with-53m-in-series-a-funding/",
+         "urlToImage": "https://s.yimg.com/uu/api/res/1.2/r5a6DZi.aICWiXp.tK8DMw--~B/aD0zNzUwO3c9NjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/90c5902811c71ff5071276e9498eaf7e",
+         "publishedAt": "2019-11-15T20:08:44Z",
+         "content": "Silicon is apparently the new gold these days, or so VCs hope.\r\nWhat was once a no-go zone for venture investors, who feared the long development lead times and high technical risk required for new entrants in the semiconductor field, has now turned into one … [+9040 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Hailing a driverless ride in a Waymo",
+         "description": "Ed Niedermeyer Contributor Share on Twitter Ed Niedermeyer is an author, columnist and co-host of The Autonocast. His book, Ludicrous: The Unvarnished Story of Tesla Motors, was released in August 2019. “Congrats! This car is all yours, with no one up front,”…",
+         "url": "http://techcrunch.com/2019/11/01/hailing-a-driverless-ride-in-a-waymo/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/waymo-2019-4.png?w=753",
+         "publishedAt": "2019-11-01T15:57:08Z",
+         "content": "“Congrats! This car is all yours, with no one up front,” the pop-up notification from the Waymo One app reads. “This ride will be different. With no one else in the car, Waymo will do all the driving. Enjoy this free ride on us!”\r\nMoments later, an empty Chry… [+9923 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Walmart drops lawsuit against Tesla over solar panel fires",
+         "description": "Walmart has agreed to drop a lawsuit against Tesla over a rash of solar panel fires filed in August. The retail giant had claimed that “years of gross negligence” by Tesla — and its solar panel subsidiary, SolarCity — led to fires on the roofs of at least sev…",
+         "url": "https://www.theverge.com/2019/11/5/20949661/walmart-tesla-lawsuit-settlement-solar-panel-fires-solarcity",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/GLcDN13p1l69EHd5RrTG57csKeE=/0x308:3672x2231/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19348530/1172039467.jpg.jpg",
+         "publishedAt": "2019-11-05T16:08:40Z",
+         "content": "Walmart had said the fires were the result of years of gross negligence\r\nPhoto by Justin Sullivan/Getty Images\r\nWalmart has agreed to drop a lawsuit against Tesla over a rash of solar panel fires filed in August, according to a new filing with the New York St… [+1490 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Tesla’s autonomous parking feature has been used over a million times",
+         "description": "Smart Summon, the autonomous parking feature rolled out by Tesla in mid-September, has already been used “over one million times,” the company said in its quarterly earnings statement.",
+         "url": "https://www.theverge.com/2019/10/23/20929438/tesla-smart-summon-use-one-million-q3-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/6K4PrEfYuzYcOvfYgSsEs-zpkdQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13546747/sokane_181116_3101_fremont_0004.jpg",
+         "publishedAt": "2019-10-23T21:47:20Z",
+         "content": "Smart Summon will get smarter with time, the company says\r\nPhoto by Sean OKane / The Verge\r\nSmart Summon, the autonomous parking feature rolled out by Tesla in mid-September, has already been used over one million times, the company said in its quarterly earn… [+1238 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "How to watch the Tesla Cybertruck event live",
+         "description": "Tesla CEO Elon Musk will take the stage on November 21st to unveil the Cybertruck, Tesla’s all-electric pickup truck and the automaker’s sixth vehicle since its founding in 2003. The event is scheduled to begin at 8PM PT (11PM ET).",
+         "url": "https://www.theverge.com/2019/11/21/20975927/tesla-cybertruck-announcement-watch-live-stream-elon-musk-online-how-to-date-time",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/MUyWHrmgUQeUUU9wm_lYdVAy76c=/61x0:1140x565/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19352172/tesla_cybertruck_teaser.jpg",
+         "publishedAt": "2019-11-21T17:16:02Z",
+         "content": "Elon Musks sixth vehicle is a Blade Runner-esque pickup truck\r\nImage: Tesla\r\nTesla CEO Elon Musk will take the stage on November 21st to unveil the Cybertruck, Teslas all-electric pickup truck and the automakers sixth vehicle since its founding in 2003. Unles… [+1130 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck",
+         "description": "Here’s everything you need to know about Tesla’s first pickup truck, which Elon Musk has called “heart-stopping” and his “personal favorite” out of all the vehicles Tesla is working on.",
+         "url": "https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/MUyWHrmgUQeUUU9wm_lYdVAy76c=/61x0:1140x565/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19352172/tesla_cybertruck_teaser.jpg",
+         "publishedAt": "2019-11-21T21:22:11Z",
+         "content": "Image: Tesla The Blade Runner-inspired Cybertruck is here Continue reading…"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": null,
+         "title": "Sudan asks for foreign help",
+         "description": "When peaceful protests brought down the 30-year rule of President Omar al-Bashir in April, the military men who deposed him were forced to agree to a civilian government. Our former Sudan correspondent James Copnall returns to Khartoum to find out how civilia…",
+         "url": "https://www.bbc.co.uk/programmes/w172wq51lh94487",
+         "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07vtt9k.jpg",
+         "publishedAt": "2019-11-22T22:41:00Z",
+         "content": "When peaceful protests brought down the 30-year rule of President Omar al-Bashir in April, the military men who deposed him were forced to agree to a civilian government. Our former Sudan correspondent James Copnall returns to Khartoum to find out how civilia… [+405 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Mercedes-Benz’s electric SUV will start at $67,900",
+         "description": "The Mercedes-Benz EQC was announced last year, but the German automaker is just now announcing its price tag. It’s not cheap, but it’s competitive with other premium electric SUVs like the Jaguar I-Pace, Audi E-Tron, and Tesla Model X.",
+         "url": "https://www.theverge.com/2019/11/20/20974974/mercedes-benz-eqc-ev-suv-price-la-auto-show-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/lE5uNu_gfBNQpOOp58ocaY6TnfQ=/0x231:2040x1299/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13212167/1810_mercedes_eqc_suv_vsavov22.jpg",
+         "publishedAt": "2019-11-21T00:21:52Z",
+         "content": "Its expensive, but its competitive with other premium electric SUVs\r\nPhoto by Vlad Savov / The Verge\r\nMercedes-Benz has finally announced a starting price for its first long-range electric vehicle, the EQC SUV: $67,900. The new SUV, which was announced more t… [+2223 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Nick Statt",
+         "title": "Elon Musk says he will donate $1 million to plant trees after testifying that he’s cash-poor",
+         "description": "Elon Musk has promised to donate $1 million worth of trees ($1 per tree) to YouTuber Jimmy “MrBeast” Donaldson, who’s currently campaigning to raise $20 million from fellow YouTube celebrities for a climate change fundraising effort.",
+         "url": "https://www.theverge.com/2019/10/29/20939016/elon-musk-mrbeast-tree-donation-1-million-spacex-tesla-testifying-no-cash",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/2bFE-sDHe-uS9Wp2a_VgG_O1iiA=/0x0:5568x2915/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19329763/1175368064.jpg.jpg",
+         "publishedAt": "2019-10-29T22:44:37Z",
+         "content": "Musk admitted his illiquidity as part of an ongoing defamation suit\r\nPhoto by Yichuan Cao/NurPhoto via Getty Images\r\nElon Musk has promised to donate $1 million worth of trees ($1 per tree) to YouTuber Jimmy MrBeast Donaldson, whos currently campaigning to ra… [+2762 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Ghost wants to retrofit your car so it can drive itself on highways by 2020",
+         "description": "A new autonomous vehicle company is on the streets — and unbeknownst to most, has been since 2017. Unlike the majority in this burgeoning industry, this new entrant isn’t trying to launch a robotaxi service or sell a self-driving system to suppliers and autom…",
+         "url": "http://techcrunch.com/2019/11/07/ghost-wants-to-retrofit-your-car-so-it-can-drive-itself-on-highways-by-2020/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/Ghost-founders-_-John-and-Volkmar-2.jpg?w=600",
+         "publishedAt": "2019-11-07T18:01:48Z",
+         "content": "A new autonomous vehicle company is on the streets and unbeknownst to most, has been since 2017. Unlike the majority in this burgeoning industry, this new entrant isn’t trying to launch a robotaxi service or sell a self-driving system to suppliers and automak… [+6392 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "GM sells Lordstown factory to the offshoot of a struggling EV startup",
+         "description": "Lordstown Motors wants to build electric trucks for businesses, or perhaps the government. It was founded by the former CEO of Workhorse, a struggling startup with lots of ties to the new company.",
+         "url": "https://www.theverge.com/2019/11/8/20954956/gm-lordstown-motors-factory-workhorse-electric-vehicles-trump-ev",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/31X15B3YpFpV66KIMphl-Cso2hE=/0x30:2338x1254/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19359251/Screen_Shot_2019_11_08_at_1.02.12_PM.png",
+         "publishedAt": "2019-11-08T18:29:25Z",
+         "content": "Theres a long road ahead for Lordstown Motors\r\nImage: Lordstown Motors\r\nThe closed General Motors factory in Lordstown, Ohio thats been at the center of the companys tension with President Trump has a new owner: an electric vehicle startup called Lordstown Mo… [+4590 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "News Daily: Election clash on NHS and Army to help flood victims",
+         "description": "Your morning briefing for 13 November 2019.",
+         "url": "https://www.bbc.co.uk/news/uk-50376293",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF84/production/_88461316_c0151526-nurses_walking_along_hospital_corridor-spl.jpg",
+         "publishedAt": "2019-11-13T06:35:27Z",
+         "content": "If you want to get this briefing by email, sign up here\r\nImage copyrightScience Photo Library\r\nGeneral election 2019: Labour pledges to outspend Tories on the NHS\r\nWith 29 days to go until the general election, Labour is laying out its spending plans for the … [+4907 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "The Tesla Cybertruck pickup truck is revealed",
+         "description": "Can withstand sledge hammers and bullets, apparently",
+         "url": "https://www.theverge.com/2019/11/21/20975475/tesla-cybertruck-announcement-musk-electric-truck-pickup-features-range-price-release-date",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/2kagbxqj5RKYDQ-CCn7hoaVmZqM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19398821/tesla_cybertruck_056.jpg",
+         "publishedAt": "2019-11-22T04:21:47Z",
+         "content": "Can withstand sledge hammers and bullets, apparently \r\nTesla CEO Elon Musk just unveiled the companys first electric pickup truck, also known as Cybertruck, at an event in Los Angeles, California. \r\nMusk has spent the better part of a decade poking at the ide… [+2955 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "BMW reveals i4 electric car in testing, promises nearly 400 miles of range",
+         "description": "The BMW i4 has been rumored for years, and BMW showed it off in concept form as the iVision Dynamics. But these are our first real-world images of the car. BMW released photos of the i4 as well as the iNext and iX3 electric SUVs being tested in winter weather…",
+         "url": "https://www.theverge.com/2019/11/18/20970807/bmw-i4-ev-sedan-range-la-auto-show-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/vVZWOph_ji-rFE8wV_P56cyDWzo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19386992/P90341112_highRes_the_bmw_i4_undergoes.jpg",
+         "publishedAt": "2019-11-18T18:33:04Z",
+         "content": "But dont bet on the specs just yet\r\nImages: BMW\r\nBMW has been teasing the i4 electric car for years, and now the German automaker has released camouflaged photos of the sedan being tested in winter weather conditions ahead of a 2021 release. The company also … [+3035 chars]"
+      },
+      {
+         "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+         },
+         "author": "https://www.facebook.com/bbcnews",
+         "title": "No-one understood our idea, but now it's worth over $1bn",
+         "description": "Howie Liu's firm AirTable wants to make spreadsheets so simple anyone can use them.",
+         "url": "https://www.bbc.co.uk/news/business-50138290",
+         "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ED2C/production/_109461706_61ddc731-ed2c-48ce-b7da-e386220f35ef.jpg",
+         "publishedAt": "2019-11-04T01:07:14Z",
+         "content": "Image copyrightBloomberg\r\nThe BBC's weekly The Boss series profiles different business leaders from around the world. This week we speak to Howie Liu, the founder and chief executive of the fast-growing spreadsheet start-up AirTable.\r\nSilicon Valley boss Howa… [+6911 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Ford’s Mustang Mach-E is an electric SUV with up to 300 miles of range",
+         "description": "Starting at $43,895 and coming in late 2020",
+         "url": "https://www.theverge.com/transportation/2019/11/17/20967565/ford-mustang-mach-e-electric-suv-specs-price-la-auto-show-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/Yh8cxk_gmCaEKN8S0gyk8EisLR4=/1711x2019:6361x4454/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19384549/Mustang_Mach_E_17.jpg",
+         "publishedAt": "2019-11-18T02:30:00Z",
+         "content": "Fords first entry into the new world of electric vehicles has been revealed. The company unveiled the Mustang Mach-E SUV on Sunday night following months of teaser images, years of hype about a $11 billion push into EVs, and a last-minute leak that spoiled a … [+11771 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Tesla will unveil its ‘Cybertruck’ electric pickup on November 21st",
+         "description": "Tesla will finally unveil its long-awaited electric pickup truck on November 21st, Elon Musk tweeted on Wednesday. The truck, which Musk has dubbed “Cybertruck,” is supposed to look like something straight out of Blade Runner, the CEO has said.",
+         "url": "https://www.theverge.com/2019/11/6/20951616/tesla-cybertruck-electric-pickup-reveal",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/MUyWHrmgUQeUUU9wm_lYdVAy76c=/61x0:1140x565/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19352172/tesla_cybertruck_teaser.jpg",
+         "publishedAt": "2019-11-06T16:27:06Z",
+         "content": "Elon Musk has called the supposedly Blade Runner design heart-stopping\r\nTesla will finally unveil its long-awaited electric pickup truck on November 21st, Elon Musk tweeted on Wednesday. The truck, which Musk has dubbed Cybertruck, is supposed to look like so… [+695 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "How Tesla’s first Gigafactory is changing Reno, Nevada",
+         "description": "The latest episode of USA Today’s podcast The City is the best exploration of the Gigafactory’s impact on Reno, Nevada, five years after Tesla stuck the deal to bring it there. The podcast goes deep on how that deal came to be, and it explores the human cost …",
+         "url": "https://www.theverge.com/2019/11/13/20962317/tesla-gigafactory-deal-reno-nevada-the-city-podcast-911-calls-model-3",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/iTCL88pdhkBRgAOLNxH8TmmyG0E=/0x231:2040x1299/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13590416/bfarsace_181115_3101_gigafactory_0012.jpg",
+         "publishedAt": "2019-11-13T14:58:11Z",
+         "content": "USA Todays The City goes deep on life inside and outside the massive factory\r\nPhoto by Becca Farsace / The Verge\r\nTeslas first Gigafactory in Reno, Nevada, has a well-documented place in the companys history, both for how it helped Elon Musk ship his first ma… [+3774 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Tesla’s Cybertruck is available for preorder with a $100 deposit",
+         "description": "Tesla’s newly revealed Cybertruck is now available for preorder at tesla.com/cybertruck. The company is currently taking $100 deposits to reserve the truck. But as Tesla CEO Elon Musk noted during an event in Los Angeles Thursday night, deliveries are still a…",
+         "url": "https://www.theverge.com/2019/11/22/20977320/tesla-cybertruck-preorder-how-to-buy-online-price-date-electric-truck-pickup",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/IphQ74VoDNDg277iEzLEG-eNUyo=/0x89:989x607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19398913/Screen_Shot_2019_11_21_at_11.54.02_PM.png",
+         "publishedAt": "2019-11-22T05:08:11Z",
+         "content": "Production doesnt start until late 2021\r\nTeslas newly revealed Cybertruck is now available for preorder at tesla.com/cybertruck. The company is currently taking $100 deposits to reserve the truck. But as Tesla CEO Elon Musk noted during an event in Los Angele… [+874 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Tesla ekes out a profit as all eyes turn to its China Gigafactory",
+         "description": "Tesla reported a net income of $143 million, and generated $6.3 billion of revenue, which is down slightly from the second quarter, and down about $520 million from the third quarter of 2018. That marks the first year-over-year quarterly revenue decline for T…",
+         "url": "https://www.theverge.com/2019/10/23/20928982/tesla-q4-earnings-profit-model-3-china-gigafactory",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/C76aoBJQmv0fabV9cp-X5w3O97I=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15980837/elon_musk_tesla_3036.jpg",
+         "publishedAt": "2019-10-23T21:24:04Z",
+         "content": "The first profit since the final quarter of 2018\r\nA record number of cars shipped in the third quarter of 2019 was enough to help Tesla turn a modest profit, according to financial figures released by the Silicon Valley automaker on Wednesday. And with the Sh… [+3643 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "I drove Arcimoto’s bizarre electric three-wheeler through New York City traffic",
+         "description": "Three years after introducing its first prototype, Arcimoto  has begun making its first deliveries to customers. The FUV, or ‘fun utility vehicle,’ The FUV retails for $19,900, which is not exactly cheap. It has a top speed of 75 mph, a city-driving range of …",
+         "url": "https://www.theverge.com/2019/11/18/20961144/arcimoto-fuv-electric-three-wheel-nyc-drive-motorcyle-specs-price-speed",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/gWLQ9woqpWlPozfHBLhKNawhc8M=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19369979/ahawkins_191111_3787_0032.jpg",
+         "publishedAt": "2019-11-18T19:18:55Z",
+         "content": "FUV, or fun utility vehicle\r\nPhoto by Andrew Hawkins / The Verge\r\nArcimoto CEO Mark Frohnmayer has one rule for driving his hot-off-the-production-line electric three-wheeler: Do not crash the FUV into the other FUV.\r\nFUV stands for fun utility vehicle, which… [+6048 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Tesla made an ATV to compliment its futuristic Cybertruck",
+         "description": "At the Tesla Cybertruck event in Los Angeles Thursday, Elon Musk said three words most of the tech world is familiar with: “One more thing.” That turned out to be an electric all-terrain vehicle. The ATV can charge from the bed of the Cybertruck, naturally.",
+         "url": "https://www.theverge.com/2019/11/21/20977300/tesla-atv-electric-features-range-price-release-date-announcement-elon-musk-all-terrain",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/99WuHJ_pHRmNRQ9ilSY8bcw2eAk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19398853/tesla_atv_3550.jpg",
+         "publishedAt": "2019-11-22T04:39:48Z",
+         "content": "At the Tesla Cybertruck event in Los Angeles Thursday, Elon Musk said three words most of the tech world is familiar with: “One more thing.” That turned out to be an electric all-terrain vehicle. The ATV can charge from the bed of the Cybertruck, naturally. T… [+200 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "What to expect from Tesla’s Cybertruck pickup truck event",
+         "description": "Tesla CEO Elon Musk will unveil the company’s long-awaited pickup truck on Thursday night. He’s said it will start around $50,000, have range options of up to 400 or 500 miles, and look like something out of Blade Runner.",
+         "url": "https://www.theverge.com/2019/11/20/20973789/tesla-cybertruck-announcement-rumors-specs-what-to-expect-elon-musk",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/t3DT8qyznxCW4ahGTwGCSC4l56s=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10752835/acastro_180430_1777_tesla_0001.jpg",
+         "publishedAt": "2019-11-20T18:30:02Z",
+         "content": "The long-awaited Tesla pickup truck will be revealed Thursday night\r\nIllustration by Alex Castro / The Verge\r\nOn Thursday night, Elon Musk will appear onstage at the Tesla Design Center in Los Angeles to reveal the product hes most excited about: Teslas first… [+11356 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Caroline Siede",
+         "title": "The Current War is basically Amadeus for electricity",
+         "description": "The long-delayed film has been rescued from Harvey Weinstein and released two years late. Benedict Cumberbatch and Michael Shannon star as rivals Thomas Edison and George Westinghouse, two tech innovators fighting to determine the future of electricity and Am…",
+         "url": "https://www.theverge.com/2019/10/23/20928756/the-current-war-review-directors-cut-benedict-cumberbatch-michael-shannon-tom-holland",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/xUEvj4zvGJUOZEys5TyRIMMTZvE=/0x0:4240x2220/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19312788/the_current_war_CW_03724_rgb.jpg",
+         "publishedAt": "2019-10-23T16:42:58Z",
+         "content": "The long-delayed film has been rescued from Harvey Weinstein and released two years late\r\nPhoto: Dean Rogers / 101 Studios\r\nIts unusual for a film to arrive in theaters labeled Directors Cut, but its happening with The Current War, a historical film about the… [+8088 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Justine Calma",
+         "title": "Elon Musk offers discounted solar panels and batteries after California blackouts",
+         "description": "Tesla is offering a discount on solar panels and batteries to people who are affected by wildfire power outages, Elon Musk tweeted. More than 2 million people across California have been affected by power outages since October 25th as utility companies try to…",
+         "url": "https://www.theverge.com/2019/10/28/20937049/elon-musk-tesla-solar-panels-batteries-california-blackouts-fire",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/VGejhWcIys0-LzxnhMO7Mvht9WA=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19326146/479833756.jpg.jpg",
+         "publishedAt": "2019-10-28T21:04:56Z",
+         "content": "Millions are without power as fires rage and preemptive outages become the new norm\r\nPhoto by Scott Olson/Getty Images\r\nTesla is offering a discount on solar panels and batteries to people who are affected by wildfire power outages, Tesla CEO Elon Musk tweete… [+2598 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Darrell Etherington",
+         "title": "Elon Musk says Tesla “early access” full self-driving could arrive by end of year - TechCrunch",
+         "description": "Tesla CEO Elon Musk said on the company’s earnings call today that the company’s full self-driving mode, in a feature-complete release, could arrive as early as the end of this year. That would be made available in an ‘early access’ mode which is essentially …",
+         "url": "http://techcrunch.com/2019/10/23/elon-musk-says-tesla-early-access-full-self-driving-could-arrive-by-end-of-year/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/tesla_autopilot_cg-1.jpg?w=661",
+         "publishedAt": "2019-10-23T22:54:08Z",
+         "content": "Tesla CEO Elon Musk said on the company’s earnings call today that the company’s full self-driving mode, in a feature-complete release, could arrive as early as the end of this year. That would be made available in an ‘early access’ mode which is essentially … [+2220 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Up close with Ford’s electric Mustang SUV, the Mach-E",
+         "description": "Ford unveiled its first mass-market EV on Sunday in Los Angeles, California. It’s an electric Mustang SUV with up to 300 miles of range, starting at around $44,000.",
+         "url": "https://www.theverge.com/2019/11/18/20970193/ford-electric-mustang-mach-e-first-look-photos-video-la-auto-show-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/TzBgX2nTAuFbWIj4MuuxNNFHKBM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19385950/sokane_191117_3793_6288.jpg",
+         "publishedAt": "2019-11-18T07:24:29Z",
+         "content": "Ford just pulled the wraps off of the Mustang Mach-E, an all-electric SUV that promises Mustang performance with far more practicality when it gets released in late 2020. (Full details here.) Its the companys first long-range electric car, and the only other … [+5080 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "As Tesla begins ‘trial’ Model 3 production in China, it closes in on a European factory – TechCrunch",
+         "description": "Tesla has started trial production of its Model 3 vehicle in its new Shanghai factory, which CEO Elon Musk called a “template for future growth.” This trial basis includes all aspects of production, including body, paint and general assembly. Tesla said it is…",
+         "url": "http://techcrunch.com/2019/10/23/as-tesla-begins-trial-model-3-production-in-china-it-closes-in-on-a-european-factory/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/tesla-Model-3-Performance-Midnight-Silver-Tarmac-Motion.jpg?w=711",
+         "publishedAt": "2019-10-23T22:49:44Z",
+         "content": "Tesla has started trial production of its Model 3 vehicle in its new Shanghai factory, which CEO Elon Musk called a “template for future growth.”\r\nThis trial basis includes all aspects of production, including body, paint and general assembly. Tesla said it i… [+2014 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "Elon Musk: Model S, Model X production continues for ‘sentimental reasons’ – TechCrunch",
+         "description": "Tesla continues to produce the Model S and Model X more for “sentimental reasons than anything else,” CEO Elon Musk said Wednesday during a call with investors, calling the electric vehicles “niche” products. “They are really of minor importance to future,” M…",
+         "url": "http://techcrunch.com/2019/10/23/elon-musk-model-s-model-x-production-continues-for-sentimental-reasons/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Tesla-Model-S-Badge.png?w=711",
+         "publishedAt": "2019-10-24T00:11:59Z",
+         "content": "Tesla continues to produce the Model S and Model X more for “sentimental reasons than anything else,” CEO Elon Musk said Wednesday during a call with investors, calling the electric vehicles “niche” products.\r\n“They are really of minor importance to future,” … [+1547 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "What we learned on our Tesla Cybertruck ride",
+         "description": "After Elon Musk had left the stage Thursday evening, the crowd — still excited and a little stunned from the Tesla Cybertrunk reveal — converged to the back doors that led outside where a gigantic queue quickly formed. Media got their own area, the VIPs anoth…",
+         "url": "http://techcrunch.com/2019/11/22/what-we-learned-on-our-tesla-cybertruck-ride/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/tesla-truck-2.jpg?w=711",
+         "publishedAt": "2019-11-22T11:01:56Z",
+         "content": "After Elon Musk had left the stage Thursday evening, the crowd still excited and a little stunned from the Tesla Cybertrunk reveal converged to the back doors that led outside where a gigantic queue quickly formed.\r\nMedia got their own area, the VIPs another,… [+934 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Kirsten Korosec",
+         "title": "GM will bring an electric truck to market in 2021 – TechCrunch",
+         "description": "GM CEO Mary Barra said Thursday that the automaker will bring its first electric truck to market in the fall of 2021. The comments were made Thursday during GM’s investor day. Later this evening, Tesla, which also plans to start selling an electric truck in 2…",
+         "url": "http://techcrunch.com/2019/11/21/gm-will-bring-an-electric-truck-to-market-in-2021/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/01/gettyimages-629982546.jpg?w=601",
+         "publishedAt": "2019-11-21T19:01:42Z",
+         "content": "GM CEO Mary Barra said Thursday that the automaker will bring its first electric truck to market in the fall of 2021.\r\nThe comments were made Thursday during GM’s investor day. Later this evening, Tesla, which also plans to start selling an electric truck in … [+744 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Justine Calma",
+         "title": "‘Disaster capitalism’ piles on top of California blazes and power outages",
+         "description": "California residents have been surrounded by wildfires, inundated with smoke, and subject to power outages. Now they’re being flooded with offers for products claiming to provide relief.",
+         "url": "https://www.theverge.com/2019/10/31/20941785/california-wildfires-disaster-capitalism-power-outages",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/Yxe-PG4klMFZpXzq5DWvnIuu_h0=/0x399:5568x3314/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19334715/1179184235.jpg.jpg",
+         "publishedAt": "2019-10-31T16:26:32Z",
+         "content": "Ads for air purifiers and solar panels abound \r\nA fire burns in San Bernardino, CA on OCtober 31. \r\nPhoto by JOSH EDELSON/AFP via Getty Images\r\nFires raging in San Franciscos Bay Area and in the greater Los Angeles area have already forced hundreds of thousan… [+5867 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Faraday Cage",
+         "description": "Faraday Future has a new CEO with grand ambitions, former BMW executive Carsten Breitfeld. But in order to move the struggling electric vehicle startup forward, he’s going to have to deal with the company’s billionaire founder Jia Yueting.",
+         "url": "https://www.theverge.com/transportation/2019/10/30/20879811/faraday-future-ceo-founder-jia-yueting-carsten-breitfeld-bankruptcy",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/Sgl4ifUls6nqQ2QVWTp-U24WDPQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19239750/acastro_190927_3692_Faraday_Future_0001.jpg",
+         "publishedAt": "2019-10-30T13:00:42Z",
+         "content": "Faraday Future, once the most hyped electric vehicle startup following in Teslas wake, is now known for its money troubles, if it is known at all. Flashy hires from SpaceX, Tesla, Apple, and Ford have mostly moved on. The $2 billion it has spent to develop a … [+30142 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Sean O'Kane",
+         "title": "Lexus teases its first electric vehicles with a wild drone-deploying concept car",
+         "description": "The LF-30 Electrified, as it’s called, was unveiled at the 2019 Tokyo Motor Show. It’s a wedge-shaped coupe packed with crystalline angles and protrusions both inside and out. It seats four, with the driver and front passenger essentially getting their own fi…",
+         "url": "https://www.theverge.com/2019/10/22/20927635/lexus-lf-30-electrified-concept-car-tokyo-motor-show-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/csw8U4YuMTED_fZPG2OimivKbdU=/0x102:2040x1170/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19311274/Lexus_LF30_Concept_001_high.jpg",
+         "publishedAt": "2019-10-23T02:50:00Z",
+         "content": "Lexus is preparing to unveil its first electric car next month. And with that in mind, Toyotas luxury marque is showing off a concept car at the Tokyo Motor Show this week that teases all sorts of far-out ideas that may or may not make it into its future elec… [+3865 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Andrew J. Hawkins",
+         "title": "Chuck Schumer proposes ‘large discounts’ to trade in gas-powered cars for electric ones",
+         "description": "US Senate Minority Leader Chuck Schumer proposed a plan that would provide car owners with “large discounts” if they trade in their polluting, gas-powered vehicles for “clean” electric ones. In an op-ed published in The New York Times, Schumer said the goal i…",
+         "url": "https://www.theverge.com/2019/10/25/20931983/schumer-electric-car-trade-in-gas-discount-proposal-zero-emission",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/XicTnuDl03dKiQ78ufUUifXWjto=/0x312:4356x2593/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19318349/1177755332.jpg.jpg",
+         "publishedAt": "2019-10-25T15:40:10Z",
+         "content": "The entire proposal would cost $454 billion over 10 years\r\nPhoto by Tom Williams / CQ-Roll Call, Inc via Getty Images\r\nUS Senate Minority Leader Chuck Schumer (D-NY) proposed a plan that would provide car owners with large discounts if they trade in their pol… [+6450 chars]"
+      },
+      {
+         "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+         },
+         "author": "Matt Burns",
+         "title": "BMW unveils the powerful i4 electric sedan with 530 hp, 373 miles of range – TechCrunch",
+         "description": "BMW just took the wraps off its first purely electric premium mid-size sedan. Appropriately called the i4, the vehicle is powered by the company’s fifth-generation eDrive platform and is just part of the company’s upcoming onslaught of EVs. But put down the c…",
+         "url": "http://techcrunch.com/2019/11/18/bmw-unveils-the-powerful-i4-electric-sedan-with-530-hp-373-miles-of-range/",
+         "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/bmw-i4.jpg?w=600",
+         "publishedAt": "2019-11-18T17:06:46Z",
+         "content": "BMW just took the wraps off its first purely electric premium mid-size sedan. Appropriately called the i4, the vehicle is powered by the companys fifth-generation eDrive platform and is just part of the companys upcoming onslaught of EVs. But put down the cre… [+1203 chars]"
+      },
+      {
+         "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+         },
+         "author": "Verge Staff",
+         "title": "The Verge Holiday Gift Guide 2019",
+         "description": "We convened the greatest minds at The Verge to put together our annual holiday gift guide list full of gift suggestions from AirPods to Star Wars shoes. Whether you need a present for friends, family, co-workers, pets, they, them, him, her, secret Santa, whit…",
+         "url": "https://www.theverge.com/2019/11/5/20929348/holiday-gift-ideas-tech-phones-books-gadgets-christmas-hannukah-2019",
+         "urlToImage": "https://cdn.vox-cdn.com/thumbor/pxyhYdU8_Bo7lNlWI00FImcCbVE=/0x62:2040x1130/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19334744/akrales_191014_3733_0157_background_added.jpg",
+         "publishedAt": "2019-11-05T13:00:00Z",
+         "content": "Alphabet Squadron by Alexander Freed \r\nSet in the aftermath of Star Wars: Return of the Jedi, the story follows the creation of a special ragtag group of starfighter pilots who are tasked with tracking down a dangerous rogue squad of TIE fighters wreaking hav… [+26651 chars]"
+      }
+   ]
+}
+
